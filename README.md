@@ -12,7 +12,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 
 <br/>
-<br />
+
+<br/>
 <h2> Skills  ☑ </h2>
 
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
