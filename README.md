@@ -11,11 +11,6 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 
-<br/>
-
-<br/>
-<h2> Skills  ☑ </h2>
-
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white)
 
