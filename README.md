@@ -1,4 +1,4 @@
-<h1> Hi, I'm Dream Coder Ellie </h1>
+<h1> Hi, I'm sh.Oh </h1>
 
 <br />
 <h2> My tech stack 📚 </h2>
