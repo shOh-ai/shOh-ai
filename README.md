@@ -1,4 +1,5 @@
 <h1> Hello there,  I'm sh.Oh 👋 </h1>
+<br />
 
 <h2> My tech stack  ☑ </h2>
 
@@ -15,7 +16,6 @@
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white)
 
-<br />
 <h2> Contact Me 🤙🏻 </h2>
 
 ![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)
