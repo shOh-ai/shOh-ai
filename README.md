@@ -21,7 +21,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white)
 
 <h2> 🤙🏻 Contact Me </h2>
-
+When you click on the banner, the link will not open in a new window, but will turn the current window into a link. <Br> So either right-click and click "Open link in new window" or press the "CTRL" button and click on the banner.
 <a href="mailto:shoyangchung@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
