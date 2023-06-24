@@ -4,7 +4,7 @@
 
 <h2> 🎓 Educations </h2>
 
-🌼 Dept of Statistics, HUFS (2019 ~ present)
+🌼 Dept of Statistics, HUFS (2019 ~ present)<Br>
 🌼 Dept of Computer Science & Electronic Engineering, HUFS (2021 ~ present)
 
 <h2> 💪 My tech stack </h2>
