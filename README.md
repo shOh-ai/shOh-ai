@@ -16,3 +16,14 @@
 ![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white)
 
 <br/>
+
+<br />
+<h2> Contact Me 🤙🏻 </h2>
+
+![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=EA4335&logoColor=white)
+
+
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white)
+
+<br/>
