@@ -1,6 +1,6 @@
-<h1> Hello there,  I'm sh.Oh 👋 </h1>
+<h1> Hello there, welcome to sh.Oh's Githyb 👋 </h1>
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://Hello there, welcome to sh.Oh's Github 👋.vercel.app/api?type=shark&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 <br />
 
 <h2> My tech stack  💪 </h2>
