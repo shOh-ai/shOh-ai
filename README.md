@@ -23,7 +23,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shOh-ai&layout=compact)](https://github.com/shOh-ai/github-readme-stats)
 
-<h2> shOh-ai's Github Status 💻 </h2>
+<h2> 💻 shOh-ai's Github Status </h2>
 
 ![shOh-ai's GitHub stats](https://github-readme-stats.vercel.app/api?username=shOh-ai&show_icons=true&theme=radical)
 
