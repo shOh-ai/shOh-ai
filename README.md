@@ -1,6 +1,5 @@
 <h1> Hello there,  I'm sh.Oh 👋 </h1>
 
-<br />
 <h2> My tech stack  ☑ </h2>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
@@ -16,7 +15,6 @@
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white)
 
-<br/>
 <br />
 <h2> Contact Me 🤙🏻 </h2>
 
@@ -24,4 +22,7 @@
 ![Google site](https://img.shields.io/badge/-Googlesite-34A853?style=for-the-badge&logo=GoogleSheets&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
 
-<br/>
+<h2> shOh-ai's Github Status 💻 </h2>
+
+![shOh-ai's GitHub stats](https://github-readme-stats.vercel.app/api?username=shOh-ai&show_icons=true&theme=radical)
+
