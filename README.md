@@ -24,11 +24,7 @@
 ![Google site](https://img.shields.io/badge/-Googlesite-34A853?style=for-the-badge&logo=GoogleSheets&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
 
-<h2> ✎ Most Used </h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shOh-ai&layout=compact)](https://github.com/shOh-ai/github-readme-stats)
-
 <h2> 💻 shOh-ai's Github Status </h2>
 
 ![shOh-ai's GitHub stats](https://github-readme-stats.vercel.app/api?username=shOh-ai&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shOh-ai&layout=compact)](https://github.com/shOh-ai/github-readme-stats)
