@@ -1,7 +1,7 @@
 <h1> Hello there,  I'm sh.Oh 👋 </h1>
 <br />
 
-<h2> My tech stack  ☑ </h2>
+<h2> My tech stack  💪 </h2>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Matlab](https://img.shields.io/badge/MATLAB-R2023a-BLUE.svg)
