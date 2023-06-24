@@ -2,6 +2,11 @@
 
 <br />
 
+<h2> 🎓 Educations </h2>
+
+dot Dept
+
+
 <h2> 💪 My tech stack </h2>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
