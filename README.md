@@ -2,7 +2,7 @@
 
 <br />
 
-<h2> My tech stack  💪 </h2>
+<h2> 💪 My tech stack </h2>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Matlab](https://img.shields.io/badge/MATLAB-R2023a-BLUE.svg)
@@ -17,13 +17,13 @@
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white)
 
-<h2> Contact Me 🤙🏻 </h2>
+<h2> 🤙🏻 Contact Me </h2>
 
 ![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)
 ![Google site](https://img.shields.io/badge/-Googlesite-34A853?style=for-the-badge&logo=GoogleSheets&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
 
-<h2> Most Used ✎ </h2>
+<h2> ✎ Most Used </h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shOh-ai&layout=compact)](https://github.com/shOh-ai/github-readme-stats)
 
