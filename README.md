@@ -17,7 +17,6 @@
 ![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white)
 
 <br/>
-
 <br />
 <h2> Contact Me 🤙🏻 </h2>
 
