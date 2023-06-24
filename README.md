@@ -27,4 +27,4 @@
 <h2> 💻 shOh-ai's Github Status </h2>
 
 ![shOh-ai's GitHub stats](https://github-readme-stats.vercel.app/api?username=shOh-ai&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shOh-ai&layout=default)](https://github.com/shOh-ai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shOh-ai&layout=compact)](https://github.com/shOh-ai/github-readme-stats)
