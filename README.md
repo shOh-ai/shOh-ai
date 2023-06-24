@@ -8,7 +8,7 @@
 🌼 Dept of Computer & Electronic System Engineering, HUFS (2021 ~ present)<Br>
 🌼 MoNet Lab, College of Medicine, Yonsei University, Republic of Korea (2023.01 ~ 2023.04)
 
-<h2> 💪 My tech stack </h2>
+<h2> 💪🏻 My tech stack </h2>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=white)
