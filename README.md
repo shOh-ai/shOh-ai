@@ -4,9 +4,9 @@
 
 <h2> 🎓 Educations </h2>
 
-👉 Dept of Statistics, Hankuk University of Foreign Studies(HUFS), Republic of Korea (2019 ~ present)<Br>
-👉 Dept of Computer & Electronic System Engineering, HUFS (2021 ~ present)<Br>
-👉 MoNet Lab, College of Medicine, Yonsei University, Republic of Korea (2023.01 ~ 2023.04)
+- Dept of Statistics, Hankuk University of Foreign Studies(HUFS), Republic of Korea (2019 ~ present)<Br>
+- Dept of Computer & Electronic System Engineering, HUFS (2021 ~ present)<Br>
+- MoNet Lab, College of Medicine, Yonsei University, Republic of Korea (2023.01 ~ 2023.04)
 
 <h2> 🔥 Research Interests </h2>
 
