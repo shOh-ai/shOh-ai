@@ -21,11 +21,7 @@
 <h2> Contact Me 🤙🏻 </h2>
 
 ![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
 ![Google site](https://img.shields.io/badge/-Googlesite-34A853?style=for-the-badge&logo=GoogleSheets&logoColor=white)
-
-
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
 
 <br/>
