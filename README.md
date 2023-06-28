@@ -27,7 +27,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white)
 
-<h2> ☎ Contact Me </h2>
+<h2> 📧 Contact Me </h2>
 
 <a href="mailto:shoyangchung@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
