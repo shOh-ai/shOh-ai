@@ -20,7 +20,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=white)
 ![Matlab](https://img.shields.io/badge/MATLAB-R2023a-BLUE.svg)
-![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=for-the-badge&logo=CUDA&logoColor=white)
+![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=for-the-badge&logo=NVIDIA&logoColor=white)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=Julia&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
