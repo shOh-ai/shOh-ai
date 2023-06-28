@@ -11,7 +11,7 @@
 
 <h2> 🔥 Research Interests </h2>
 
-- Medical Imaging<Br>
+- Medical Image Analysis<Br>
 - Multi-modal Deep Learning using Medical Data<Br>
 - Active Inference Theory & Hierarchical Bayesian Models in Human Brain
 
