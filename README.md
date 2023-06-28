@@ -15,7 +15,7 @@
 - Multi-modal Deep Learning using Medical Data<Br>
 - Active Inference Theory & Hierarchical Bayesian Models in Human Brain
 
-<h2> 💪🏻 My tech stack </h2>
+<h2> 💪🏻 Tech Stack </h2>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=white)
