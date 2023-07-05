@@ -7,7 +7,7 @@
 - Dept of Statistics, Hankuk University of Foreign Studies(HUFS), Republic of Korea (2019 ~ Present)<Br>
 - Division of Computer & Electronic System Engineering, HUFS (2021 ~ Present)<Br>
 - MoNet Lab, College of Medicine, Yonsei University, Republic of Korea (2022.12 ~ 2023.04)<Br>
-- vLab, College of Engineering, HUFS (2023.06 ~ Present)
+- Computer Vision Lab, Division of Computer Engineering, HUFS (2023.06 ~ Present)
 
 <h2> 🔥 Research Interests </h2>
 
