@@ -1,9 +1,7 @@
-<h2> 
-  Hello there, Welcome to sh.Oh's Github 
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-</h2>
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Hello%20there,%20Welcome%20to%20sh.Oh's%20Github&fontSize=42" />
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40" height="40" />
+</p>
 
 <br />
 
