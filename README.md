@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Hello%20there,%20Welcome%20to%20sh.Oh's%20Github%20👋&fontSize=42)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Hello%20there,%20Welcome%20to%20sh.Oh's%20Github&fontSize=42)
+
+![Hi there](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif)
+
 
 <br />
 
