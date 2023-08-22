@@ -9,12 +9,12 @@
 
 - Dept of Statistics, Hankuk University of Foreign Studies(HUFS), Republic of Korea (2019 ~ Present)<Br>
 - Division of Computer & Electronic System Engineering, HUFS (2021 ~ Present)<Br>
-- MoNET LAB, College of Medicine, Yonsei University, Republic of Korea (2022.12 ~ 2023.04)<Br>
+- MoNET LAB, College of Medicine, Yonsei University, Republic of Korea (2023.01 ~ 2023.04)<Br>
 - VLAB(Computer Vision Lab), Division of Computer Engineering, HUFS (2023.06 ~ Present)
 
 <h2> 🔥 Research Interests </h2>
 
-- Medical Image Analysis <Br>
+- Medical Imaging <Br>
 - Multi-modal Deep Learning using Medical Data<Br>
 - Active Inference Theory & Hierarchical Bayesian Models in Human Brain
 
@@ -26,7 +26,6 @@
 ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=for-the-badge&logo=NVIDIA&logoColor=white)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=Julia&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white)
 
