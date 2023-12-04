@@ -16,6 +16,7 @@
 
 - Medical Imaging & Analysis <Br>
 - Multi-modal Deep Learning using Medical Data<Br>
+- Computer Vision <Br>
 - Diffusion Models
 
 <h2> 💪🏻 Tech Stack </h2>
