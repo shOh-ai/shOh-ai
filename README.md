@@ -12,8 +12,8 @@
 
 <h2> 👨🏻‍🔬 Research Experience </h2>
 
-- MoNET LAB, College of Medicine, Yonsei University, Republic of Korea (2023.01 ~ 2023.04)<Br>
-- VLAB(Computer Vision Lab), Division of Computer Engineering, HUFS (2023.06 ~ Present)
+- MoNET LAB, College of Medicine, Yonsei University, Republic of Korea (2023.01 ~ 2023.05)<Br>
+- VLAB(Computer Vision Lab), Division of Computer Engineering, HUFS (2023.07 ~ Present)
 
 <h2> 🔥 Research Interests </h2>
 
