@@ -7,13 +7,15 @@
 
 <h2> 🎓 Educations </h2>
 
-- Dept of Statistics, Hankuk University of Foreign Studies(HUFS), Republic of Korea (2019 ~ Present)<Br>
-- Division of Computer & Electronic System Engineering, HUFS (2021 ~ Present)<Br>
+- Dept of Statistics, Hankuk University of Foreign Studies(HUFS), Republic of Korea (2019 ~ 2023)<Br>
+- Division of Computer & Electronic System Engineering, HUFS (2021 ~ 2023)<Br>
+- Division of Medical Science, School of Convergence Science and Technology, POSTECH, Republic of Korea (2024 ~)
 
 <h2> 👨🏻‍🔬 Research Experience </h2>
 
-- MoNET LAB, College of Medicine, Yonsei University, Republic of Korea (2023.01 ~ 2023.05)<Br>
-- VLAB(Computer Vision), Division of Computer Engineering, HUFS (2023.07 ~ Present)
+- Laboratory of Molecular Neuroimaging Technology(MoNeT), College of Medicine, Yonsei University, Republic of Korea (2023.01 ~ 2023.05)<Br>
+- Laboratory of Computer Vison(VLAB), Division of Computer Engineering, HUFS (2023.07 ~ 2023.12)<Br>
+- Laboratory of Bio Optics & Acoustics(BOALAB), Division of Electrical & Electronics engineering, POSTECH, Republic of Korea (2024.01 ~ )
 
 <h2> 🔥 Research Interests </h2>
 
