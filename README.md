@@ -15,13 +15,13 @@
 
 - Laboratory of Molecular Neuroimaging Technology(MoNeT), College of Medicine, Yonsei University, Republic of Korea (2023.01 ~ 2023.05)<Br>
 - Laboratory of Computer Vison(VLAB), Division of Computer Engineering, HUFS (2023.07 ~ 2023.12)<Br>
-- Laboratory of Bio Optics & Acoustics(BOALAB), Division of Electrical & Electronics engineering, POSTECH, Republic of Korea (2024.01 ~ )
+- Laboratory of Bio Optics & Acoustics(BOALAB), Department of Medical Science & Engineering, POSTECH, Republic of Korea (2024.01 ~ )
 
 <h2> 🔥 Research Interests </h2>
 
 - Medical Imaging & Analysis <Br>
-- Multi-modal Deep Learning using Medical Data<Br>
-- Computer Vision <Br>
+- Multi-modal Deep Learning <Br>
+- Self-Supervised Learning <Br>
 - Diffusion Models
 
 <h2> 💪🏻 Tech Stack </h2>
