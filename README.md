@@ -14,8 +14,8 @@
 <h2> 👨🏻‍🔬 Research Experience </h2>
 
 - Laboratory of Molecular Neuroimaging Technology(MoNeT), College of Medicine, Yonsei University, Republic of Korea (2023.01 ~ 2023.05)<Br>
-- Laboratory of Computer Vison(VLAB), Division of Computer Engineering, HUFS (2023.07 ~ 2023.12)<Br>
-- Laboratory of Bio Optics & Acoustics(BOALAB), Department of Medical Science & Engineering, POSTECH, Republic of Korea (2024.01 ~ )
+- Laboratory of Computer Vison(V-Lab), Division of Computer Engineering, HUFS (2023.07 ~ 2023.12)<Br>
+- Laboratory of Bio Optics & Acoustics(BOA Lab), Department of Medical Science & Engineering, POSTECH, Republic of Korea (2024.01 ~ )
 
 <h2> 🔥 Research Interests </h2>
 
