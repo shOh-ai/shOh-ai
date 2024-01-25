@@ -9,7 +9,7 @@
 
 - Dept of Statistics, Hankuk University of Foreign Studies(HUFS), Republic of Korea (2019 ~ 2023)<Br>
 - Division of Computer & Electronic System Engineering, HUFS (2021 ~ 2023)<Br>
-- Division of Medical Science(MSE), School of Convergence Science and Technology(SCST), POSTECH, Republic of Korea (2024 ~)
+- Medical Science&Engineering(MSE), School of Convergence Science and Technology(SCST), POSTECH, Republic of Korea (2024 ~)
 
 <h2> 👨🏻‍🔬 Research Experience </h2>
 
