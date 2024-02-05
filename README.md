@@ -20,7 +20,7 @@
 <h2> 🔥 Research Interests </h2>
 
 - Medical Imaging & Analysis <Br>
-- Multi-modal Deep Learning <Br>
+- Multi-modal Learning <Br>
 - Self-Supervised Learning <Br>
 - Diffusion Models
 
