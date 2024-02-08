@@ -29,6 +29,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=white)
 ![Matlab](https://img.shields.io/badge/MATLAB-R2023a-BLUE.svg)
 ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=for-the-badge&logo=NVIDIA&logoColor=white)
