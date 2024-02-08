@@ -20,9 +20,9 @@
 <h2> 🔥 Research Interests </h2>
 
 - Medical Imaging & Analysis <Br>
-- Multi-modal Learning <Br>
-- Self-Supervised Learning <Br>
-- Diffusion Models
+ - Multi-modal Learning <Br>
+ - Self-Supervised Learning <Br>
+ - Diffusion Models
 
 <h2> 💪🏻 Tech Stack </h2>
 
