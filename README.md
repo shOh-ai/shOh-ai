@@ -11,7 +11,7 @@
 - Division of Computer Science & Electronic System Engineering, HUFS (2021 ~ 2023)<Br>
 - Major of Medical Science&Engineering(MSE)(Artificial Intelligence), School of Convergence Science and Technology(SCST), POSTECH, Republic of Korea (2024 ~)
 
-<h2> 👨🏻‍🔬 Research Experience </h2>
+<h2> 👨🏻‍🔬 Research Experiences </h2>
 
 - Laboratory of Molecular Neuroimaging Technology(MoNeT), College of Medicine, Yonsei University, Republic of Korea (2023.01 ~ 2023.05)<Br>
 - Laboratory of Computer Vison(V-Lab), Division of Computer Engineering, HUFS (2023.07 ~ 2023.12)<Br>
