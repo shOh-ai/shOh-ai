@@ -9,7 +9,7 @@
 
 - Dept of Statistics, Hankuk University of Foreign Studies(HUFS), Republic of Korea (2019 ~ 2023)<Br>
 - Division of Computer Science & Electronic System Engineering, HUFS (2021 ~ 2023)<Br>
-- Major of Medical Science&Engineering(MSE)(Artificial Intelligence), School of Convergence Science and Technology(SCST), POSTECH, Republic of Korea (2024 ~)
+- Major of Medical Science&Engineering(MSE)(Artificial Intelligence), School of Convergence Science and Technology(SCST), POhang university of Science & TECHnology(POSTECH), Republic of Korea (2024 ~)
 
 <h2> 👨🏻‍🔬 Research Experiences </h2>
 
