@@ -20,7 +20,7 @@
 <h2> 🔥 Research Interests </h2>
 
 - Medical Imaging & Analysis <Br>
-- Multi-modal Learning <Br>
+- Multi-modal DeepLearning <Br>
 - Self-Supervised Learning <Br>
 - Diffusion Models
 
@@ -33,7 +33,6 @@
 ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=white)
 ![Matlab](https://img.shields.io/badge/MATLAB-R2023a-BLUE.svg)
 ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=for-the-badge&logo=NVIDIA&logoColor=white)
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=Julia&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white)
