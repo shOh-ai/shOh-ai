@@ -9,18 +9,18 @@
 
 - Dept of Statistics, Hankuk University of Foreign Studies(HUFS), Republic of Korea (2019 ~ 2023)<Br>
 - Division of Computer Science & Electronic System Engineering, HUFS (2021 ~ 2023)<Br>
-- Major of Medical Science&Engineering(MSE)(Artificial Intelligence), School of Convergence Science and Technology(SCST), POhang university of Science & TECHnology(POSTECH), Republic of Korea (2024 ~)
+- Department of Medical Science&Engineering(MED)(Artificial Intelligence), Graduate School of Convergence Science and Technology(GSCST), POhang university of Science & TECHnology(POSTECH), Republic of Korea (2024 ~)
 
 <h2> 👨🏻‍🔬 Research Experiences </h2>
 
 - Laboratory of Molecular Neuroimaging Technology(MoNeT-Lab), College of Medicine, Yonsei University, Republic of Korea (2023.01 ~ 2023.05)<Br>
 - Laboratory of Computer Vison(V-Lab), Division of Computer Engineering, HUFS (2023.07 ~ 2023.12)<Br>
-- Laboratory of Bio Optics & Acoustics(BOA Lab), Department of Medical Science & Engineering(AI Department), POSTECH, Republic of Korea (2024.01 ~ )
+- Laboratory of Bio Optics & Acoustics(BOA Lab), Graduate School of Convergence Science & Technology, POSTECH, Republic of Korea (2024.01 ~ )
 
 <h2> 🔥 Research Interests </h2>
 
 - Medical Imaging & Analysis <Br>
-- Multi-modal DeepLearning <Br>
+- Multi-modal <Br>
 - Self-Supervised Learning <Br>
 - Diffusion Models
 
